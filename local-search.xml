@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Hello,World!</title>
+    <link href="/gsxCat.github.io/2024/10/09/Hello-World-0/"/>
+    <url>/gsxCat.github.io/2024/10/09/Hello-World-0/</url>
+    
+    <content type="html"><![CDATA[<p>首先读题，<a href="https://oj.17ac.cn/problems/1044">点我读题</a></p><p>这道题的任务很明确，就是输出一句问候语”Hello,World!”</p><p>所以我们直接输出”Hello,World!”就行了。</p><p>AC代码如下：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;iostream&gt;</span></span><br><span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> std;<br><br><span class="hljs-function"><span class="hljs-type">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span> </span>&#123;<br>    cout &lt;&lt; <span class="hljs-string">&quot;Hello,World!&quot;</span>;<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure><p>The End.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>C++</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>输入输出练习I</title>
     <link href="/gsxCat.github.io/2024/10/09/%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E7%BB%83%E4%B9%A0I/"/>
     <url>/gsxCat.github.io/2024/10/09/%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E7%BB%83%E4%B9%A0I/</url>
@@ -13,7 +38,7 @@
     
     <categories>
       
-      <category>C++s</category>
+      <category>C++</category>
       
     </categories>
     
